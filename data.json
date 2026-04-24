@@ -11,5 +11,14 @@
       "nota": "Un usuario de prueba"
     }
   ],
-  "bots": []
+  "bots": [
+    {
+      "id": "1776997267672",
+      "type": "prod",
+      "name": "CPO BOT",
+      "number": "3102452015",
+      "provider": "",
+      "nota": ""
+    }
+  ]
 }
