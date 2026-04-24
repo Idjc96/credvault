@@ -17,8 +17,8 @@
       "type": "prod",
       "name": "CPO BOT",
       "number": "3102452015",
-      "provider": "",
-      "nota": ""
+      "provider": "Infobip",
+      "nota": "este bot es de prueba"
     }
   ]
 }
