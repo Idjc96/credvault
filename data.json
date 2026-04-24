@@ -1,1 +1,15 @@
-{"credentials":[],"bots":[]}
+{
+  "credentials": [
+    {
+      "id": "1776997071203",
+      "env": "prod",
+      "name": "FSFB",
+      "url": "https://app-scheduler-qa-testing-001.azurewebsites.net/paciente",
+      "tipo": "Funcionario",
+      "user": "1023018809",
+      "pass": "Ximenez96",
+      "nota": "Un usuario de prueba"
+    }
+  ],
+  "bots": []
+}
