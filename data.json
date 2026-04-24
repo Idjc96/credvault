@@ -9,6 +9,16 @@
       "user": "1023018809",
       "pass": "Ximenez96",
       "nota": "Un usuario de prueba"
+    },
+    {
+      "id": "1776997758386",
+      "env": "prod",
+      "name": "Clnica moilna",
+      "url": "https://app-scheduler-demo.azurewebsites.net/paciente",
+      "tipo": "Funcionario",
+      "user": "gfhgj",
+      "pass": "46646",
+      "nota": ""
     }
   ],
   "bots": [
